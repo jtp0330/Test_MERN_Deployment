@@ -1,0 +1,9 @@
+.book_entry {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+}
